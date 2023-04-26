@@ -1,0 +1,16 @@
+.div1 {
+    width: 50%;
+    border: 10px;
+    border-radius: 1%;
+    border-color: brown;
+    border-style: groove;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.tit {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-size: medium;
+    color: brown;
+}
