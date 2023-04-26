@@ -1,0 +1,14 @@
+import { LightningElement } from 'lwc';
+
+
+export default class Exe1 extends LightningElement {
+
+    personagens = [
+        { codY: "1", nome: "Monkey D. Luffy", alcu: "Chapéu de Palha", Hab: "Niko Niko no Mi", recomp: "$3.000.000.000", haki: "Haki do Rei" },
+        { codP: "2", nome: "Portgas D. Ace", alcu: "Punhos de Fogo", Hab: "Mera Mera no Mi", recomp: "$550.000.000", haki: "Haki avançado" },
+        { codY: "3", nome: "Shanks", alcu: "O Ruivo", Hab: "Esgrima", recomp: "$4.048.900.000", haki: "Haki do Rei" },
+        { codP: "4", nome: "Roronoa Zoro", alcu: "Caçador de Pirata", Hab: "Mestre Espadachim", recomp: "$1.111.000.000.", haki: "Haki do Armamento" },
+        { codS: "5", nome: "Dracule Mihawk", alcu: "Olhos de Falcão", Hab: "Mestre Espadachim", recomp: "$3.590. 000.000 ", haki: "Haki avançado" },
+
+    ];
+}
